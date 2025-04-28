@@ -14,3 +14,5 @@ This repository provides a updated list of unused usernames on **guns.lol**, per
 
 ### Contributions
 Feel free to open a pull request if you want to help update the list!
+
+## ADDED FILTERED BY USER LENGHT [HERE](https://github.com/eteb/guns.lol-usernames/tree/main/filtered)
